@@ -24,13 +24,13 @@ This project involves the development of an **Ultrasonic Distance Measuring Syst
 ---
 ## 📟 Schematic
 
-![Circuit Diagram](Screenshot 2025-07-07 163044)
+![Circuit Diagram](Screenshot%202025-07-07%20162511.png)
 
 ---
 
 ## 📸 Real-World Implementation
 
-![Real Setup](Screenshot 2025-07-07 162511)
+![Real Setup](Screenshot%202025-07-07%20163044.png)
 
 ---
 
