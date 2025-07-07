@@ -22,13 +22,15 @@ This project involves the development of an **Ultrasonic Distance Measuring Syst
   Provides the necessary 5V power to the Arduino and connected modules.
 
 ---
+## 📟 Schematic
 
-### Schematic:
-![Circuit Diagram](circuit_diagram.png)
+![Circuit Diagram](images/circuit_diagram.png)
 
-### Real-World Implementation:
-![Real Setup](real_setup.png)
+---
 
+## 📸 Real-World Implementation
+
+![Real Setup](images/real_setup.png)
 
 ---
 
